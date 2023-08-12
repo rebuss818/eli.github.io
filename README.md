@@ -17,7 +17,7 @@ I'm [Elijah], an experienced security analyst with a deep commitment to safeguar
 Explore some of my standout projects:
 
 - [Month 2 Project Video](https://youtu.be/to67pxKpOcQ)
-- [Month 2 Project Slide Deck](pdfs/Milestone%2010%20pitch%20deck%20group%201002%20(1).pdf)
+- [Month 2 Project Slide Deck](pdfs/pitchdeck.pdf)
 )
 
 ## Elevator Pitch
