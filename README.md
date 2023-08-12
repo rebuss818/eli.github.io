@@ -11,6 +11,10 @@
 Welcome to my website! Here you'll find information about my professional background and achievements.
 
 ## Bio
+
+
+<div style="background-color: #f5f5f5; color: #333; padding: 20px;"></div>
+
 I'm [Elijah], an experienced security analyst with a deep commitment to safeguarding digital environments. My expertise lies in identifying vulnerabilities, implementing robust security measures, and educating teams on best practices. I thrive in dynamic and challenging scenarios, leveraging my problem-solving skills to mitigate risks effectively.
 
 ## Portfolio
