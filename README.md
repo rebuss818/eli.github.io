@@ -1,5 +1,5 @@
 # Elijah Udom
-## Security Analyst
+## Student/Aspiring Security analyst
 
 <p style="font-family: 'Your Custom Font', sans-serif;">
     I'm [Elijah Udom], a passionate security analyst dedicated to creating a safer digital world.
