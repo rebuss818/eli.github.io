@@ -26,4 +26,4 @@ Stay tuned for my Elevator Pitch!
 ---
 
 Footer:
-&copy; 2023 Your Name. All rights reserved.
+&copy; 2023 Eli. All rights reserved.
