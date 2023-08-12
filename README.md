@@ -1,6 +1,10 @@
 # Your Full Name
 ## Web Developer Extraordinaire
 
+<p style="font-family: 'Your Custom Font', sans-serif;">
+    I'm Mike Jones, a 19-year-old security enthusiast and a student at Lagos State University, studying Computer Science Education.
+</p>
+
 [Home](#home) | [Bio](#bio) | [Portfolio](#portfolio) | [Elevator Pitch](#elevator-pitch)
 
 ## Home
