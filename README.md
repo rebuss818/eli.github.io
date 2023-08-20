@@ -22,8 +22,8 @@ Explore some of my standout projects:
 )
 
 ## Elevator Pitch
-- [My Elevator Pitch]
-(pdfs/elpitch2.mp4)
+[My Elevator Pitch](pdfs/elpitch2.mp4)
+
 
 ---
 
