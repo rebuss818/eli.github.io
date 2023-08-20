@@ -22,7 +22,8 @@ Explore some of my standout projects:
 )
 
 ## Elevator Pitch
-Stay tuned for my Elevator Pitch!
+- [My Elevator Pitch]
+(pdfs/vidpitch
 
 ---
 
