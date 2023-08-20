@@ -6,7 +6,6 @@
     I'm [Elijah Udom], a passionate security analyst dedicated to creating a safer digital world.
 </p>
 
-[Home](#home) | [Bio](#bio) | [Portfolio](#portfolio) | [Elevator Pitch](#elevator-pitch)
 
 ## Home
 Welcome to my website! Here you'll find information about my professional background and achievements.
@@ -20,7 +19,7 @@ Explore some of my standout projects:
 
 - [Month 2 Project Video](https://youtu.be/to67pxKpOcQ)
 - [Month 2 Project Slide Deck](pdfs/pitchdeck.pdf)
-)
+
 
 ## Elevator Pitch
 [My Elevator Pitch](pdfs/elpitch2.mp4)
