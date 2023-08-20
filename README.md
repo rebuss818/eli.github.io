@@ -23,7 +23,7 @@ Explore some of my standout projects:
 
 ## Elevator Pitch
 - [My Elevator Pitch]
-(pdfs/vidpitch
+(pdfs/elpitch2.mp4)
 
 ---
 
